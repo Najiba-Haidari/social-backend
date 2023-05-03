@@ -1,14 +1,26 @@
-# NoSQL: Social Network API
+# NoSQL: Social Network Backend
 
-## Your Task
+## Description
 
-MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. Over the last part of this course, you’ll use several of the technologies that social networking platforms use in their full-stack applications. Because the foundation of these applications is data, it’s important that you understand how to build and structure the API first.
+MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. Over the last part of the course, you’ll use several of the technologies that social networking platforms use in their full-stack applications. Because the foundation of these applications is data, it’s important that you understand how to build and structure the API first.
 
-Your Challenge is to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the [Express.js](https://www.npmjs.com/package/express) and [Mongoose](https://www.npmjs.com/package/mongoose) packages, you may also optionally use a JavaScript date library of your choice or the native JavaScript `Date` object to format timestamps.
+We are to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the [Express.js](https://www.npmjs.com/package/express) and [Mongoose](https://www.npmjs.com/package/mongoose) packages, you may also optionally use a JavaScript date library of your choice or the native JavaScript `Date` object to format timestamps.
 
 No seed data is provided, so you’ll need to create your own data using Insomnia after you’ve created your API.
 
-Because this application won’t be deployed, you’ll also need to create a walkthrough video that demonstrates its functionality and all of the following acceptance criteria being met. You’ll need to submit a link to the video and add it to the README of your project.
+## Screenshot
+![Social Backend](./Assets/getallusers.jpeg)
+![Social Backend](./Assets/adduser.jpeg)
+![Social Backend](./Assets/getallthoughts.jpeg)
+
+## Table of Contents 
+
+  - [User Story](#use-story)
+  - [Acceptance Criteria](#acceptance-criteria)
+  - [Database Languages Used](#database-language-used)
+  - [Github Link](#github-link)
+  - [Installation](#installation)
+  - [License](#license)
 
 ## User Story
 
@@ -32,3 +44,19 @@ WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 ```
 
+## Database Language Used
+* Database Languages : NoSQL, MongoDB
+
+## Github Link
+Github Repo: 
+
+## Installation
+This app needs to be run in either CLI or shell.
+* npm i express
+* npm i mongoose
+* npm i datejs
+* npm install
+* npm start / node index.js
+  
+## License
+This project is under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
