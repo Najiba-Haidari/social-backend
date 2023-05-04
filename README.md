@@ -51,7 +51,7 @@ Video URL: https://drive.google.com/file/d/1eHHyuIGISZDgiUqz0rRz0NaT5RNTYQbt/vie
 * Database Languages : NoSQL, MongoDB
 
 ## Github Link
-Github Repo: https://drive.google.com/file/d/1eHHyuIGISZDgiUqz0rRz0NaT5RNTYQbt/view
+Github Repo: https://najiba-haidari.github.io/social-backend/
 
 ## Installation
 This app needs to be run in either CLI or shell.
