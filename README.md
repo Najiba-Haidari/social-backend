@@ -45,13 +45,13 @@ WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 ```
 ## Walkthrough Video
-Video URL: https://drive.google.com/file/d/1Bs_shW0qTUbtrQbFDypnZwlKqqsZIkm8/view
+Video URL: https://drive.google.com/file/d/1eHHyuIGISZDgiUqz0rRz0NaT5RNTYQbt/view
 
 ## Database Language Used
 * Database Languages : NoSQL, MongoDB
 
 ## Github Link
-Github Repo: 
+Github Repo: https://drive.google.com/file/d/1eHHyuIGISZDgiUqz0rRz0NaT5RNTYQbt/view
 
 ## Installation
 This app needs to be run in either CLI or shell.
